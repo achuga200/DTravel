@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118781796855",
+    "firebase_url": "https://dtravel-c9c9b.firebaseio.com",
+    "project_id": "dtravel-c9c9b",
+    "storage_bucket": "dtravel-c9c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118781796855:android:bd937fac6b51b806",
+        "android_client_info": {
+          "package_name": "com.example.dtravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118781796855-rvmn2hda8l827mutkep5f5hm0s9rupag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dtravel",
+            "certificate_hash": "25b94a8a4fec1ac5e7e5773dfe3e604dba0c3ec2"
+          }
+        },
+        {
+          "client_id": "118781796855-v3p6k8hikb3basdpkl5i0vhhcstj3rkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh6r74pDsXEjAkw8UQYiMEk0dQWTu8JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118781796855-v3p6k8hikb3basdpkl5i0vhhcstj3rkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
